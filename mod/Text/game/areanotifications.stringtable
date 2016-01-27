@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name />
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>7</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Numa noite sem estrelas, cinco vagões tateiam às cegas pela trilha. O mestre dos vagões sempre de olho nos céus para certificar-se de que estão na direção certa. Uma lanterna pálida é sua única proteção contra o domínio das trevas.
+
+Porém, os céus não trazem alento, nem luz e tampouco revelam o que sabem.
+
+A caravana leva viajantes rumo ao vilarejo do Vale Dourado, incluindo você. Lá, um lorde local oferecera terras e riquezas aos colonizadores imigrantes em busca de vida nova.
+
+Do nada, você adoece, suando e tremendo. Um dos demais viajantes faz sinal ao mestre da caravana para que pare por sua causa. Ele para bem a tempo de evitar a colisão com o tronco caído que bloqueia a passagem. Esta noite, vocês não seguirão adiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>Numa noite sem estrelas, cinco vagões tateiam às cegas pela trilha. O mestre dos vagões sempre de olho nos céus para certificar-se de que estão na direção certa. Uma lanterna pálida é sua única proteção contra o domínio das trevas.
+
+Porém, os céus não trazem alento, nem luz e tampouco revelam o que sabem.
+
+A caravana leva viajantes rumo ao vilarejo do Vale Dourado, incluindo você. Lá, um lorde local oferecera terras e riquezas aos colonizadores imigrantes em busca de vida nova.
+
+Do nada, você adoece, suando e tremendo. Um dos demais viajantes faz sinal ao mestre da caravana para que pare por sua causa. Ele para bem a tempo de evitar a colisão com o tronco caído que bloqueia a passagem. Esta noite, vocês não seguirão adiante.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Depois do que pareceu uma eternidade, sua queda súbita chega a um fim abrupto. Você para um instante para acalmar o coração e acostumar seus olhos; inspirando um ar rançoso e esquecido. 
+
+À frente, sob uma luz tênue, uma passarela cheia de erosão começa a surgir, traçando uma trilha sinuosa numa caverna tão extensa como se fosse um mundo à parte. Ao longe, é possível distinguir o brilho frio das veias pulsantes de adra que penetram e se ramificam difusamente nas profundezas lúgubres. Tal brilho era como um guia fugidio para uma trilha antiga.
+
+ Olhando acima para a abertura donde saltara, há apenas um ponto de luz, como uma estrela distante, solitária, e inalcançável. Seu único caminho é seguir em frente.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Baía da Insurgência. A cidade no cerne da revolução de Floresta Dyr parece prestes a ter outra revolução.
+
+Refugiados enchem as ruas, sem-tetos e famintos. Desalojados por causa do Legado de Waidwen, eles buscam, em vão, abrigo nas muralhas da cidade.
+
+Com mãos trêmulas nos punhos de suas armas, os dissidentes se reúnem para protestar e exigir uma solução.
+
+A capital de um país que há relativamente pouco tempo incinerara um deus, agora parece estar a uma faísca de compartilhar o mesmo destino da divindade...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Das muralhas da cidade, nuvens crescentes de fumaça obscurecem o céu como uma tempestade. Detrás dos muros, as revoltas se alastram.
+
+Conhecidos patronos da animancia são forçados a se esconder enquanto pilhantes saqueiam suas propriedades e fogem com seus bens. Animantes são separados de suas famílias e arrastados de seus lares para serem apedrejados até a morte nas ruas.
+
+Imediatamente, surgem boatos de que o Duc Aevar fora assassinado e de que um animante foi responsável. A cidade não hesitou em buscar vingança, e pouco se pensou em questionar a acusação.
+
+No centro de tudo isso, o Sanatório Brackenbury ardia em chamas. E na rua de baixo, a Casa de Hadret, último bastião de estabilidade na Floresta Dyr, jazia em silêncio.
+
+Agora, seguro fora dos portões da cidade, seu caminho aponta para Olmos Gêmeos, onde Thaos se estabeleceu por motivos tão misteriosos quando a própria Cave Plúmbea.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Você ruma para Firmeza. As Marcas Brancas apontam no horizonte, estendendo-se para o norte e o sul até onde a vista alcança. Com picos dobrados como dedos, elas acenam para você.
+
+A estrada fica estreita como uma faixa esfarrapada, e a sombra das montanhas cobre sua trilha. Você mal começara a escalar e o céu escuro o apedreja com granizos e transforma o chão numa pista de gelo.
+
+Você persiste.
+
+O ar fica rarefeito, e as traiçoeiras passagens pela montanha canalizam ventos que uivam nos ouvidos. Uma nevasca o força a acampar por três dias, espremido em segurança enquanto a neve acumula-se em volta do seu refúgio.
+
+Quando o tempo abre, você chega a Firmeza com um céu azul e sem nuvens. Um ruído, agudo e estridente, vindo da vila soa como mais uma ventania gélida. Contudo, ao chegar ao topo, nos portões de madeira da vila, você enxerga o que está além...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Quando você sai da Bateria de Durgan para neve recente do lado de fora, já havia boatos de luzes estranhas saindo da fortaleza e estalos de energia no céu.
+
+Os sobreviventes de Firmeza rumaram em bando para a Bateria de Durgan, passos apressados pela iminente promessa de paz e prosperidade. Eles consertaram as muralhas, reuniram forças e prepararam a cidade para as novas oportunidades que certamente surgiriam.
+
+E, com as vozes da Bateria de Durgan finalmente silenciadas, ninguém mais ouvia o gemido distante de algo se movendo entre os picos, como se fosse uma avalanche maciça e impiedosa.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
