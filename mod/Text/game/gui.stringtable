@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>{0} {1} {2} para {3} {4} de dano ao recuar.</DefaultText>
+      <DefaultText>{0} {1} {2} para {3} {4} de dano por desengalfinhamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -481,17 +481,17 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>{0} adicionado: ‘{1}‘</DefaultText>
+      <DefaultText>{0} adicionada: ‘{1}‘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>{0} atualizado: ‘{1}‘</DefaultText>
+      <DefaultText>{0} atualizada: ‘{1}‘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>{0} concluído: ‘{1}‘</DefaultText>
+      <DefaultText>{0} concluída: ‘{1}‘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>{0} entrou em combate com {1}.</DefaultText>
+      <DefaultText>{0} engalfinhou-se com {1} no corpo a corpo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -921,7 +921,7 @@
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>Entrou no Corpo a Corpo</DefaultText>
+      <DefaultText>Engalfinhado no Corpo a Corpo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1016,7 +1016,7 @@
     </Entry>
     <Entry>
       <ID>202</ID>
-      <DefaultText>Autopausar quando um inimigo entrar em combate corpo a corpo com um membro do grupo.</DefaultText>
+      <DefaultText>Autopausar quando um membro do grupo se engalfinhar com um inimigo no corpo a corpo.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2321,52 +2321,52 @@
     </Entry>
     <Entry>
       <ID>469</ID>
-      <DefaultText>Resolve reflects a character's internal drive, determination, fearlessness, and the emotional intensity they can project to others. It can be useful for mental intimidation, leadership, and convincing performances. In combat, it helps characters maintain Concentration and contributes to the Will and Deflection defenses.</DefaultText>
+      <DefaultText>Determinação reflete o impulso interno, a dedicação, a intrepidez e a intensidade emocional que o personagem pode provocar nos outros. Pode ser útil para intimidação mental, liderança e atuações convincentes. Em combate, ajuda os personagens a manterem a Concentração e contribui para as defesas de Vontade e de Deflexão.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>470</ID>
-      <DefaultText>Might represents a character's physical and spiritual strength, brute force as well as their ability to channel powerful magic. During interactions, it can be useful for intimidating displays and acts of brute force. In combat, it contributes to both Damage and Healing as well as the Fortitude defense.</DefaultText>
+      <DefaultText>Potência representa a força física e espiritual do personagem, sua força bruta assim como sua habilidade de canalizar magias poderosas. Em interações, pode ser útil para demonstrações intimidantes e feitos de força bruta. Em combate, contribiu tanto para o Dano e para a Cura quanto para a defesa Fortitude.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>471</ID>
-      <DefaultText>Dexterity is an abstraction of a character's hand-eye coordination, balance, and overall grace. In interactions, it can be used for sleight-of-hand and fast reactions. In combat, it affects the character's Action Speed with all attacks, spells, and abilities and contributes to the Reflex defense.</DefaultText>
+      <DefaultText>Destreza é uma abstração da coordenação visomotora, do equilíbrio e da graciosidade geral de um personagem. Em interações, pode ser usada para prestidigitação e reações rápidas. Em combate, afeta a Velocidade de Ação do personagem em todos os ataques, feitiços e habilidades, além de contribuir na defesa Reflexos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Intellect represents a character's logic and reasoning capabilities. In interactions, it can be useful for deduction, sudden realizations, and problem-solving. In combat, it contributes to the Will defense and influences Durations and Areas of Effect for all Abilities and Talents.</DefaultText>
+      <DefaultText>Intelecto representa a lógica e as capacidades de raciocínio do personagem. Em interações, pode ser usado para deduções, ideias repentinas e solução de problemas. Em combate, contribui com a defesa Vontade e influencia Durações e nas Áreas de Efeitos de todas as Habilidades e Talentos.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>Constitution is a combination of the character's overall health and stamina. Although it is not used much in interactions, it is sometimes checked to withstand pain or endure a physically taxing ordeal. In combat, it affects maximum Health and Endurance and contributes to the Fortitude defense.</DefaultText>
+      <DefaultText>Constituição é uma mistura da saúde geral do personagem com sua estâmina. Embora não seja muito usada em interações, às vezes é verificada para aguentar dor ou suportar um ordálio fisicamente exaustivo. Em combate, afeta a Saúde e o Vigor, além de contribuir na defesa Fortitude.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>Perception represents a character's senses as well as their instinctive ability to pick up on details. In interactions, it can be used to catch someone in a lie, to make an observant comment about their appearance, or to notice something happening in the background. In combat, it contributes to Accuracy, the Reflex defense, and grants a bonus to Interrupt.</DefaultText>
+      <DefaultText>Percepção representa os sentidos de um personagem, assim como sua habilidade instintiva em notar detalhes. Em interações, pode ser usada para pegar alguém numa mentira, fazer uma observação pertinente sobre aparências, ou para notar algo acontecendo no plano de fundo. Em combate, contribui em Precisão, na defesa Reflexos e concede um bônus em Interrupção.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>475</ID>
-      <DefaultText>Humans (commonly called "folk") are the most common race in the Dyrwood, the Aedyr Empire, Old Vailia, and the Vailian Republics. Though not as large as the towering aumaua, humans are known for their strength and willpower.</DefaultText>
+      <DefaultText>Humanos (normalmente chamados de “gente”) compõem a raça mais comum na Floresta Dyr, no Império Aedyr, na Antiga Vailia, e nas Repúblicas Vailianas. Embora não sejam tão altos quanto os imponentes aumaua, humanos são famosos por sua força e sua obstinação.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Elves are the dominant race in Eir Glanfath and The White that Wends and are extremely common in the Dyrwood and Aedyr. Elves are known for their speed and intelligence as well as a commonly isolationist nature.</DefaultText>
+      <DefaultText>Elfos compõem a raça dominante em Eir Glanfath e no Branco que Segue Adiante, e estão muito presentes na Floresta Dyr e em Aedyr. Elfos são conhecidos por sua velocidade e pela inteligência, além de sua frequente natureza de isolamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>By virtue of land covered and number of colonies settled, dwarves are the most well-traveled race in the world. They are commonly found in the Dyrwood, the Vailian Republics, and almost any colonized land. Dwarves are known for their great strength and tenacity.</DefaultText>
+      <DefaultText>Em termos de distância percorrida e de número de colônias estabelecidas, os anões compõem a raça mais viajada do mundo. São frequentemente encontrados na Floresta Dyr, nas Repúblicas Vailianas e em quase qualquer território civilizado. Anões são conhecidos por terem força física e tenacidade elevadas.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>The godlike are children of the kith ("civilized" races) who have been blessed with physical aspects associated with the gods (though some do not consider it a blessing). These aspects may take many forms and often come with mystical powers. Aberrant head shapes are typical, and godlike are unable to wear protective headgear as it is near-impossible to find anything that fits. Because of their unusual nature and their inability to reproduce, godlike are often viewed with fear and wonder.</DefaultText>
+      <DefaultText>Os divinais são crias das parentelas (as raças “civilizadas”) que foram abençoados com os aspectos físicos associados com os deuses (embora nem todos considerem isso uma benção). Tais aspectos podem assumir formas diversas e costumam incluir poderes místicos Aberrant head shapes are typical, and godlike are unable to wear protective headgear as it is near-impossible to find anything that fits. Because of their unusual nature and their inability to reproduce, godlike are often viewed with fear and wonder.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5591,12 +5591,12 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>{0} enemies Engaged</DefaultText>
+      <DefaultText>{0} inimigos Engalfinhados</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>{0} engagement Range</DefaultText>
+      <DefaultText>{0} em Alcance de engalfinhamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5611,7 +5611,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1126</ID>
-      <DefaultText>Immune to Engagement</DefaultText>
+      <DefaultText>Imune a Engalfinhamento</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5691,7 +5691,7 @@ Invocations - Powerful magical effects that chanters can create after they have 
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Not stopped by Engagement</DefaultText>
+      <DefaultText>Não é parado por Engalfinhamentos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7052,7 +7052,7 @@ Survival can also be used in conversations and scripted interactions that involv
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Determinação</DefaultText>
+      <DefaultText>Resolução</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -8906,12 +8906,12 @@ Tem certeza que deseja terminar a Criação de Personagem?</DefaultText>
     </Entry>
     <Entry>
       <ID>1788</ID>
-      <DefaultText>Extraordinary</DefaultText>
+      <DefaultText>Extraordinário</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1789</ID>
-      <DefaultText>Break Engagements</DefaultText>
+      <DefaultText>Sai de Engalfinhamentos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9301,7 +9301,7 @@ Tem certeza que deseja terminar a Criação de Personagem?</DefaultText>
     </Entry>
     <Entry>
       <ID>1870</ID>
-      <DefaultText>Stasis Shield</DefaultText>
+      <DefaultText>Escudo de Estase</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9356,12 +9356,12 @@ Tem certeza que deseja terminar a Criação de Personagem?</DefaultText>
     </Entry>
     <Entry>
       <ID>1881</ID>
-      <DefaultText>Continue Movement on Engagement</DefaultText>
+      <DefaultText>Continuar Movimento em Engalfinhamentos</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1882</ID>
-      <DefaultText>If enabled, friendly characters will continue moving when engaged by an enemy.</DefaultText>
+      <DefaultText>Se ativo, personagens aliados continuarão a se mover quando um inimigo engalfinhar-se com eles.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -9586,7 +9586,7 @@ Tem certeza que deseja terminar a Criação de Personagem?</DefaultText>
     </Entry>
     <Entry>
       <ID>1929</ID>
-      <DefaultText>Quando ativada, quanto maior for sua determinação, mais área da cena de jogo pode ser vista. Quando desativada, a aproximação será a mesma para todas as resoluções.</DefaultText>
+      <DefaultText>Quando ativada, quanto maior for sua resolução, mais área da cena de jogo pode ser vista. Quando desativada, a aproximação será a mesma para todas as resoluções.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10026,7 +10026,7 @@ Tem certeza que deseja terminar a Criação de Personagem?</DefaultText>
     </Entry>
     <Entry>
       <ID>2027</ID>
-      <DefaultText>Santuário de Eothas</DefaultText>
+      <DefaultText>Santuário de Galawain</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10637,17 +10637,17 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     </Entry>
     <Entry>
       <ID>2150</ID>
-      <DefaultText>Disengage!</DefaultText>
+      <DefaultText>Desengalfinhar!</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2151</ID>
-      <DefaultText>cannot be Engaged by enemies more than 1 level below self</DefaultText>
+      <DefaultText>não pode ser Engalfinhado por inimigos com 1 nível ou menos do que você</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2152</ID>
-      <DefaultText>cannot be Engaged by enemies more than {0} levels below self</DefaultText>
+      <DefaultText>não pode ser Engalfinhado por inimigos com {0} níveis ou menos do que você</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -10687,7 +10687,7 @@ Your choice cannot be changed once it has been selected.</DefaultText>
     </Entry>
     <Entry>
       <ID>2160</ID>
-      <DefaultText>The character will not move to attack unless they are Engaged by an enemy.  If that enemy is defeated, they will seek out new enemies to attack.</DefaultText>
+      <DefaultText>O personagem não realiza seu ataque a menos que um inimigo se Engalfinhe com ele. Se esse inimigo for derrotado, ele procura novos inimigos para atacar.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

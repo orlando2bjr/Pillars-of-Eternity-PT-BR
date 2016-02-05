@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Melee Engagement makes it difficult for characters to move away from defenders in melee. However, several afflictions can break Engagement, including Prone, Stunned, Paralyzed, and Petrified.</DefaultText>
+      <DefaultText>Engalfinhamento Corpo a Corpo torna difícil para os personagens recuarem de defensores no corpo a corpo. No entanto, várias aflições podem romper o Engalfinhamento, incluindo estar Prostrado, Atordoado, Paralizado ou Petrificado.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -306,12 +306,12 @@
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Pillars of Eternity has been localized in several languages. If you would like to experience the game in a different language, you can do so through the options menu.</DefaultText>
+      <DefaultText>Pilares da Eternidade foi localizado em vários idiomas. Se preferir uma experiência de jogo num idioma diferente, você pode alterar isso através do menu de opções</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>During combat, an arrow moving out of one character's selection circle into another's indicates Melee Engagement. If the engaged character attempts to move away while the arrow is active, they will instantly be targeted by a Disengagement Attack.</DefaultText>
+      <DefaultText>Durante o combate, uma flecha saindo do círculo de seleção de um personagem e entrando em outro indica um Engalfinhamento Corpo a Corpo. Se o personagem atracado tentar se afastar enquanto a flecha estiver ativa, será instantaneamente alvo de um um Ataque por Desengalfinhamento.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
